@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A4FEEDFA297EA055AF52A76 /* Pods_FInalDemoProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BBA0C32E10A0F2DB3F21DB1 /* Pods_FInalDemoProject.framework */; };
+		C3AF1E8C1DF4260000509336 /* Next.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3AF1E8B1DF4260000509336 /* Next.swift */; };
 		C3CD79521DF2E714001A3B09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79511DF2E714001A3B09 /* AppDelegate.swift */; };
 		C3CD79541DF2E714001A3B09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79531DF2E714001A3B09 /* ViewController.swift */; };
 		C3CD79571DF2E714001A3B09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3CD79551DF2E714001A3B09 /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 		59875328DA319388717AF174 /* Pods-FInalDemoProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FInalDemoProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-FInalDemoProject/Pods-FInalDemoProject.release.xcconfig"; sourceTree = "<group>"; };
 		6BBA0C32E10A0F2DB3F21DB1 /* Pods_FInalDemoProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FInalDemoProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DAEEBBAC113CDBB0C6B6852 /* Pods-FInalDemoProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FInalDemoProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FInalDemoProject/Pods-FInalDemoProject.debug.xcconfig"; sourceTree = "<group>"; };
+		C3AF1E8B1DF4260000509336 /* Next.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Next.swift; sourceTree = "<group>"; };
 		C3CD794E1DF2E714001A3B09 /* FInalDemoProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FInalDemoProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3CD79511DF2E714001A3B09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3CD79531DF2E714001A3B09 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				C3CD79671DF2E96E001A3B09 /* ApiManager.swift */,
 				C3CD79691DF2EF3B001A3B09 /* UserTableViewCell.swift */,
 				C3CD796B1DF2EF8B001A3B09 /* UserTable.swift */,
+				C3AF1E8B1DF4260000509336 /* Next.swift */,
 			);
 			path = FInalDemoProject;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				C3CD79661DF2E875001A3B09 /* Users.swift in Sources */,
 				C3CD79541DF2E714001A3B09 /* ViewController.swift in Sources */,
 				C3CD79681DF2E96E001A3B09 /* ApiManager.swift in Sources */,
+				C3AF1E8C1DF4260000509336 /* Next.swift in Sources */,
 				C3CD79521DF2E714001A3B09 /* AppDelegate.swift in Sources */,
 				C3CD796A1DF2EF3C001A3B09 /* UserTableViewCell.swift in Sources */,
 				C3CD79641DF2E826001A3B09 /* ApiUrl.swift in Sources */,
