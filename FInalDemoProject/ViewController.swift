@@ -31,6 +31,7 @@ class ViewController: UIViewController {
                     self.UserArray.append(singleUser)
                     
                     print(singleUser.name)
+                    print(singleUser.email)
                 }
                 self.userTable.userArray = self.UserArray
                 
